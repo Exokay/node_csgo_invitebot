@@ -39,8 +39,8 @@ var steamUser = new Steam.SteamUser(steamClient);
 var steamGroups = new SteamGroups(steamClient);
 var steamFriends = new Steam.SteamFriends(steamClient); // NEW ADDED!
 //Steam API KEY & Profile
-var apikey='8E93F367AD4369404FF76751B2FC5639';
-var botprofile='76561197991332597';
+var apikey='xxxxxxxxxxxxxxx'; // replace with steam api key
+var botprofile='xxxxxxxxxxx'; // replace with steam profile id
 var istate=0;
 // Steam Game Coordinator
 steamGC = new Steam.SteamGameCoordinator(steamClient, 730);

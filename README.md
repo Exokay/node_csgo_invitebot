@@ -6,6 +6,7 @@ If they don't -> Bot removes Invite after 12 Hours.
   
 Setup: 
 1. Install NodeJS 
+2. Change into the Folder of the git repo and do npm install
 2. Install Mysql
 3. Insert Mysqldump into Mysql
 4. Change Database Info in Line 13-16
